@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+main {}
+
+header {}
+
+.area-logo {}
+
+.area-logo img {}
+
+.menu {}
+
+.menu nav {}
+
+/* li */
+/* ul li */
+/* .menu nav ul li { */
+/* .menu nav li { */
+.item {}
+
+.menu nav li:hover {}
+
+.banner {}
+
+section {}
+
+.titulo {}
+
+.history .texto {}
+
+.history .texto img {}
+
+.games {}
+
+.games .titulo {}
+
+.games-texto {}
+
+.games .texto1,
+.games .texto2,
+.games .texto3,
+.games .texto4 {}
+
+.games .texto1 {}
+
+.games .texto2 {}
+
+.games .texto3 {}
+
+.games .texto4 {}
+
+
+.texto1 img,
+.texto2 img,
+.texto4 img {}
+
+.texto3 img {}
+
+footer {}
